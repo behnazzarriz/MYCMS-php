@@ -66,3 +66,4 @@ $posts=$postObj->getAllPosts();
 <?php
 include_once 'inc/footer.php';
 ?>
+<!--    //is a change-->
